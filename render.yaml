@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: nsuk-booking-appointment
+    runtime: php
+    plan: free
